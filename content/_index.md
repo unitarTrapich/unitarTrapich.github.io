@@ -1,13 +1,13 @@
 ---
-title: "Welcome to Doks"
-description: ""
-lead: "Congrats on setting up a new Doks project!"
-date: 2023-09-07T16:33:54+02:00
-lastmod: 2023-09-07T16:33:54+02:00
-draft: false
-seo:
-  title: "Welcome to Doks" # custom title (optional)
-  description: "" # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+title: "Петелин Иван"
+description: "Инженер программного обеспечения"
 ---
+
+Студент 4 курса РГПУ им. Герцена, по направлению «Информатика и вычислительная техника».  
+
+Данный сайт представляет собой персональное веб-портфолио, разработанное в рамках курсовой работы.
+
+На сайте представлены:
+- информация обо мне и моих навыках;
+- примеры выполненных проектов;
+- контактные данные для связи.
