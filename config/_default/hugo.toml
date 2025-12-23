@@ -1,5 +1,5 @@
 title = "Петелин И.А."
-baseurl = "http://unitarTrapich.github.io/"
+baseurl = "https://unitarTrapich.github.io/"
 disableAliases = true
 disableHugoGeneratorInject = true
 # disableKinds = ["taxonomy", "term"]
