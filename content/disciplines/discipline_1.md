@@ -9,7 +9,7 @@ title: "6 семестр. Прикладные информационные те
 ## [Задание 1](https://docs.google.com/document/d/1AflwihfCyjMNe07w6Ko-GDcVmRmN3TEFLV7FssgNlcI/edit?usp=drive_link)
 
 **задание**
-сделать...
+сделать...wwww
 
 **описание**
 ...
