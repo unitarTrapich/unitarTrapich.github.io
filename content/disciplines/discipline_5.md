@@ -1,9 +1,8 @@
 ---
-title: "Анализ Данных"
+title: "Базы Данных"
 ---
 
-**Описание:**  
-...
+**В данном разделе предоставленны работы по дисциплине 2-го курса обучения "Базы данных"**  
 
 
 ## [Задание 1](https://docs.google.com/document/d/11kE8NWw00PBPNuYWoNWfrX7lzncyRER2Y7uYTeI8UVw/edit?usp=drive_link)
